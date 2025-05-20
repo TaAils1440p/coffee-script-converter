@@ -90,4 +90,4 @@ Le convertisseur s'appuie sur la bibliothèque js2coffee pour transformer le cod
 
 ---
 
-Tutoriel disponible sur [YouTube](https://youtube.com/watch?=) ou sur ma [Chaîne YouTube](https://www.youtube.com/@TaAilsFR)
+Tutoriel disponible sur [YouTube](https://www.youtube.com/watch?v=PctqrK31vRk) ou sur ma [Chaîne YouTube](https://www.youtube.com/@TaAilsFR)
