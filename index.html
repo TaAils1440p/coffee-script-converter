@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>JS → CoffeeScript</title>
+  <link href="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/themes/prism.css" rel="stylesheet" />
+  <style>
+    body { font-family: sans-serif; margin: 2rem; background: #f8f8f8; }
+    textarea, pre { width: 100%; font-family: monospace; font-size: 14px; border-radius: 6px; margin-top: 1rem; }
+    textarea { padding: 1rem; height: 200px; }
+    pre { padding: 1rem; background: #2d2d2d; color: #fff; overflow-x: auto; }
+    button { padding: 0.5rem 1rem; margin-top: 1rem; font-size: 1rem; }
+  </style>
+  <script type="module" crossorigin src="/js2coffee-app/assets/index-aJ202n-g.js"></script>
+</head>
+<body>
+  <h1>Convertisseur JavaScript → CoffeeScript</h1>
+  <textarea id="jsInput" placeholder="Tape ton code JS ici..."></textarea>
+  <button id="convertBtn">Convertir</button>
+  <pre><code id="coffeeOutput" class="language-coffeescript"></code></pre>
+
+  <!-- Prism & js2coffee -->
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/prism.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-coffeescript.min.js"></script>
+  <script src="https://unpkg.com/js2coffee@2.2.0/dist/js2coffee.js"></script>
+
+</body>
+</html>
