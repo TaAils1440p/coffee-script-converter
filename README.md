@@ -36,7 +36,7 @@ js2coffee-app
 
 1. Clonez le dépôt
 2. Installez les dépendances avec `npm install`
-3. Lancez en mode développement avec `npm run dev`
+3. Lancez en mode développement avec `npm run dev` (Le site no fonctionne pas si vous l'ouvrez avec live server ou dans votre navigateur)
 4. Ouvrez `localhost:5173`
 
 ## 🖥️ Code test
