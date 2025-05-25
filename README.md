@@ -15,28 +15,11 @@ Ce projet est un outil web moderne qui permet de convertir facilement du code Ja
 - **js2coffee** pour la conversion du code
 - **Prism.js** pour la coloration syntaxique
 
-## 📁 Structure du projet
-
-```
-js2coffee-app
-├── .vscode
-├── node_modules
-├── public
-├── src
-│   └── maint.ts
-├── .gitignore
-├── index.html
-├── package-lock.json
-├── package.json
-├── README.md
-├── tsconfig.json
-```
-
 ## 🔧 Installation
 
 1. Clonez le dépôt
 2. Installez les dépendances avec `npm install`
-3. Lancez en mode développement avec `npm run dev` (Le site no fonctionne pas si vous l'ouvrez avec live server ou dans votre navigateur)
+3. Lancez en mode développement avec `npm run dev`
 4. Ouvrez `localhost:5173`
 
 ## 🖥️ Code test
